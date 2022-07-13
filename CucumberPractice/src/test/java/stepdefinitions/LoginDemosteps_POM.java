@@ -18,7 +18,7 @@
 //	@Given("browser is open")
 //	public void browser_is_open() {
 //		System.out.println("Inside LoginDemoSteps_POM");
-//     	System.setProperty("webdriver.chrome.driver","C:/Users/DELL/eclipse-workspace/CucumberPractice/src/test/resources/Webdriver/chromedriver.exe");
+//     	System.setProperty("webdriver.chrome.driver","C:/Users/DELL/git/CucumberBasics/CucumberPractice/src/test/resources/Webdriver/chromedriver.exe");
 //        driver=new ChromeDriver();
 //        driver.manage().window().maximize();
 //
